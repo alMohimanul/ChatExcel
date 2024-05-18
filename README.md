@@ -27,4 +27,14 @@ To get started with the application, follow these steps:
 1. **Clone the Repository**: Begin by cloning the repository to your local machine using the following command:
    ```bash
    git clone https://github.com/yourusername/yourrepository.git
+2. **Install Dependencies**: Navigate to the project directory and install the required dependencies.
+   This can typically be done using pip:
+   ```bash
+   pip install -r requirements.txt
+3. **Run the Application**: Start the Streamlit application by running the following command:
+   ```bash
+   streamlit run app.py
+
+
+
 
